@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1B2735;
+    margin: 0;
+}
+
+.box {
+    background-color: #273649;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    border: 2px solid white;
+    padding: 20px;
+}
+
+h2 {
+    margin: 0 0 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.list-group-item {
+    background-color: white;
+    color: black;
+    border: 1px solid #e6e6e6;
+}
